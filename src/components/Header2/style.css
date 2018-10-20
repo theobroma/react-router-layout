@@ -1,0 +1,9 @@
+.header {
+  display: flex;
+  padding: 30px 2.5%;
+  background-color: rgb(255, 165, 0);
+}
+
+.authBtn {
+  margin-left: auto;
+}
